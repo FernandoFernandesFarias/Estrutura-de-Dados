@@ -1,0 +1,15 @@
+a. ultimaPosicao
+
+b. 3
+
+c. 2
+
+d. 'S'
+   'A' 
+   'T' 
+   'C'
+
+e. 2 
+
+f. if self.valores[i] == valor:
+    return i
